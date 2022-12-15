@@ -1,17 +1,17 @@
 {
-    "name": "laracon21/colorcodeconverter",
+    "name": "laracon22/colorcodeconverter",
     "description": "My awesome package",
     "keywords": [
-        "laracon21",
+        "laracon22",
         "colorcodeconverter"
     ],
-    "homepage": "https://github.com/laracon21/colorcodeconverter",
+    "homepage": "https://github.com/laracon22/colorcodeconverter",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
             "name": "Jane Doe",
-            "email": "developer.activeitzone@gmail.com",
+            "email": "rattanak.dev@gmail.com",
             "role": "Developer"
         }
     ],
